@@ -1,0 +1,2 @@
+# Gradution-Thesis
+ In this thesis, the Firefly algorithm is used for training different data sets. In this tutorial, help was taken from the KMeans clustering algorithm. KMeans automatically sorts similar objects into identical groups. To evaluate the performance of the intended project, tests were conducted on 3 datasets, iris, wine, and breast cancer Coimbra from the UCI data warehouse. According to the analysis, success rates were determined and interpreted.
